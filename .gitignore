@@ -1,1 +1,19 @@
-node_modules/ 
+# Node.js / npm
+node_modules/
+
+# Arquivos de compilação
+build/
+dist/
+*.css
+*.js
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de ambiente
+.env
+
+# Dependências específicas do desenvolvedor
+.DS_Store
+
